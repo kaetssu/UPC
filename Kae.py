@@ -6,7 +6,7 @@ import numpy as np
 
 
 
-st.title('UPC Data Science 2024')
+st.title('UPC Data Science 2024 - Martha Medina')
 
 st.header('Simulador Ventas')
 
